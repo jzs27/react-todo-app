@@ -85,8 +85,8 @@ const TodoContainer = () => {
       </div>
     </Route>
     <Route path="/about">
-    <About />
-  </Route>
+  <About />
+</Route>
   <Route path="*">
     <NotMatch />
   </Route>
